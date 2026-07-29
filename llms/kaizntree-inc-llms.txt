@@ -1,0 +1,26 @@
+# Kaizntree Inc.
+
+> Kaizntree is a New York-based operations platform for growth-stage consumer packaged goods (CPG) brands. Kaizntree OS is a cloud ERP for purchasing, inventory, sales, fulfillment, production, and lot-level traceability across raw materials, intermediate goods, packaging, and finished/bundled products (with COGS, margins, multi-location, batch codes, and expiry dates). JP is an ERP-agnostic AI operations assistant that automates purchase-order processing, reporting, data sync, and OTIF tracking. Backed by 500 Global (seed, 2022). No public developer API, OpenAPI, or SDK is published at this time.
+
+## Products
+- [Kaizntree OS](https://os.kaizntree.com/): Cloud ERP for CPG operations — inventory, purchasing, sales, fulfillment, production, traceability.
+- [JP — AI Ops Assistant](https://kaizntree.com/ai-ops): ERP-agnostic automation for high-volume operations workflows.
+
+## Docs
+- [Help Documentation (Notion)](https://docs.kaizntree.com/): Product and how-to documentation for Kaizntree OS.
+- [Book a Demo](https://cal.com/kaizntree-meeting/demo): Sales-led onboarding; account setup follows a demo.
+
+## Company
+- [Website](https://kaizntree.com): Marketing site and product overview.
+- [About](https://kaizntree.com/about-us): Company background.
+- [Careers](https://kaizntree.com/careers): Open roles.
+- [Articles / Blog](https://kaizntree.com/articles): CPG operations articles and guides.
+- [LinkedIn](https://www.linkedin.com/company/kaizntree): Company profile.
+- [Crunchbase](https://www.crunchbase.com/organization/kaizntree): Funding and company data.
+
+## Integrations
+- Sales channels (including Shopify), accounting, WMS, and fulfillment platforms. JP integrates with existing systems (e.g. Google Sheets) without requiring migration.
+
+## Notes for agents
+- There is no public REST/GraphQL API, OpenAPI specification, SDK, or webhook documentation published by Kaizntree as of 2026-07-19.
+- Access to the platform is via https://os.kaizntree.com/ after a sales demo.

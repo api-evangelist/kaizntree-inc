@@ -1,7 +1,19 @@
 aid: kaizntree-inc
 name: Kaizntree Inc.
-description: Kaizntree Inc. is a company surfaced as a portfolio company of 500-global and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Kaizntree is a New York-based operations platform for growth-stage consumer
+  packaged goods (CPG) brands, giving multi-channel manufacturers and sellers a
+  single system to run purchasing, inventory, sales, fulfillment, production, and
+  lot-level traceability. Its two products are Kaizntree OS, a cloud ERP that
+  centralizes stock across raw materials, intermediate goods, packaging, finished
+  and bundled products with COGS, margin, multi-location, batch/expiry and
+  audit-ready records, and JP, an ERP-agnostic AI operations assistant that
+  automates high-volume workflows such as purchase-order processing, reporting,
+  data synchronization, and OTIF tracking. Kaizntree integrates with sales
+  channels (including Shopify), accounting, WMS, and fulfillment platforms.
+  Backed by 500 Global (seed, 2022), it operates on usage-based pricing. This
+  profile was surfaced as a 500 Global portfolio company; Kaizntree publishes no
+  public developer API, OpenAPI, or SDK surface at this time.
 url: https://raw.githubusercontent.com/api-evangelist/kaizntree-inc/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +21,31 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://framerusercontent.com/assets/8f5XsJWl1a8dJFVsrV3vygTkfhs.png
 tags:
 - Company
+- Operations
+- ERP
+- Inventory Management
+- CPG
+- Consumer Packaged Goods
+- Supply Chain
+- Manufacturing
+- AI Agents
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +55,26 @@ maintainers:
 common:
 - type: Website
   url: https://kaizntree.com
+- type: Documentation
+  url: https://docs.kaizntree.com/
+- type: Blog
+  url: https://kaizntree.com/articles
+- type: Login
+  url: https://os.kaizntree.com/
+- type: About
+  url: https://kaizntree.com/about-us
+- type: Careers
+  url: https://kaizntree.com/careers
+- type: LinkedIn
+  url: https://www.linkedin.com/company/kaizntree
+- type: Crunchbase
+  url: https://www.crunchbase.com/organization/kaizntree
+- type: DomainSecurity
+  url: security/kaizntree-inc-domain-security.yml
+- type: LLMsTxt
+  url: llms/kaizntree-inc-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
