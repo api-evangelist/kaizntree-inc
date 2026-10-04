@@ -1,5 +1,5 @@
 aid: kaizntree-inc
-name: Kaizntree Inc.
+name: Kaizntree
 description: >-
   Kaizntree is a New York-based operations platform for growth-stage consumer
   packaged goods (CPG) brands, giving multi-channel manufacturers and sellers a
@@ -50,8 +50,7 @@ image: https://framerusercontent.com/assets/8f5XsJWl1a8dJFVsrV3vygTkfhs.png
 tags:
 - Company
 - ERP
-- Inventory Management
-- CPG
+- Inventory
 - Consumer Packaged Goods
 - Supply Chain
 - Manufacturing
@@ -98,3 +97,4 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-legal-name: Kaizntree Inc.
